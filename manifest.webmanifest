@@ -1,0 +1,20 @@
+{
+  "name": "Meine Einkaufsliste",
+  "short_name": "Einkaufsliste",
+  "description": "Eine schnelle, sichere und offlinefähige Einkaufsliste mit Preisübersicht.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#635bff",
+  "lang": "de-DE",
+  "categories": ["shopping", "utilities"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
